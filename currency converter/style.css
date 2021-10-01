@@ -21,7 +21,7 @@
                                     .card {
                                         justify-content: center;
                                         background: rgb(59, 59, 59);
-                                        color: white;
+                                        color: pink;
                                         padding: 2em;
                                         border-radius: 30px;
                                         width: 100%;
@@ -51,7 +51,7 @@
                                     }
                                     
                                     .currency {
-                                        padding: 40px 0;
+                                        padding: 50px 0;
                                         display: flex;
                                         align-items: center;
                                         justify-content: space-between;
@@ -103,6 +103,6 @@
                                     
                                     @media (maz-width: 600px) {
                                         .currency input {
-                                            width: 200px;
+                                            width: 220px;
                                         }
                                     }
